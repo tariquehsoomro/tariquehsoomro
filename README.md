@@ -3,7 +3,7 @@
 
 - Working on **Unity, C#, C++**
 
-- I’m currently learning **React Native**
+- I’m currently learning **Flutter**
 
 - I can work with **Dev Projects**
 
