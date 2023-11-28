@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tariq Soomro</h1>
+<h1 align="center">Hi, I'm Tarique Hussain</h1>
 <h3 align="center">A Programmer and A Developer</h3>
 
 - Working on **Unity, C#, C++**
